@@ -58,3 +58,17 @@ document.write('The answer is "'+ new_string+'"' +", with length "+ new_len)
 //         }
 //     }
 // }
+
+
+//Check if the option is not selected from  dropdown
+
+// function select_fun(){
+//     var b=document.getElementById('select_1');
+//     if(b.selectedIndex == 0){
+//         alert('please select')
+//     }
+//     else{
+//         alert('selected')
+//     }
+//     console.log(b.selectedIndex );
+// }
